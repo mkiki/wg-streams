@@ -1,0 +1,30 @@
+{
+  "name": "wg-streams",
+  "version": "2.0.0",
+  "description": "JavaScript streams utilities",
+  "author": "Alexandre Morin <aggmorin@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "debug": "iron-node index.js",
+    "debug-mocha": "iron-node node_modules/mocha/bin/_mocha"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://loulex.com/var/git/wg-streams.git"
+  },
+  "dependencies": {
+    "wg-log": "*"
+  },
+  "devDependencies": {
+    "del": "~2.2.2",
+    "gulp": "~3.9.1",
+    "gulp-util": "~3.0.7",
+    "gulp-gzip": "~1.4.0",
+    "gulp-tar": "~1.9.0",
+    "mocha": "~2.3.4",
+    "uuid": "~2.0.3"
+  }
+}

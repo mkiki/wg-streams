@@ -1,0 +1,3 @@
+Pull coding or client pull is a style of network communication where the initial request for data originates from the client, and then is responded to by the server. The reverse is known as push technology, where the server pushes data to clients. Usually, customers will look for a site and visit only if it provides helpful and attractive content to display. The pull code is effective and economical when advertising to open, unidentified potential customers world wide. It is more effective for the customer when he searches for a specific item.
+
+Pull requests form the foundation of network computing, where many clients request data from centralised servers. Pull is used extensively on the Internet for HTTP page requests from websites.

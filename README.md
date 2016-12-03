@@ -1,5 +1,10 @@
 # JavaScript utilities to read from streams
 
+## Installation
+
+	npm link wg-log
+	npm install
+
 ## Pull Streams
 
 A pull stream allows to read files byte by byte and provide common conversion functions
